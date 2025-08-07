@@ -34,6 +34,13 @@ out/
 ehthumbs.db
 Thumbs.db
 
+# Project reports (local only)
+*_REPORT.md
+TEST_REPORT.md
+BUILD_REPORT.md
+PROJECT_HEALTH_REPORT.md
+PROJECT_BUILD_PROCESS_REPORT.md
+
 # Logs
 logs
 *.log
