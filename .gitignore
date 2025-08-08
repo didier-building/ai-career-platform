@@ -41,6 +41,21 @@ BUILD_REPORT.md
 PROJECT_HEALTH_REPORT.md
 PROJECT_BUILD_PROCESS_REPORT.md
 
+# Personal/draft files
+adverttt
+reflection
+AI_GENERATION_PROMPTS.md
+Critical_Assessment_Report.md
+
+# Excel files
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+*.xltx
+*.xltm
+*.csv
+
 # Logs
 logs
 *.log
